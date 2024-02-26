@@ -1,0 +1,7 @@
+{
+  "name": "bolta",
+  "integrations": {
+    "capacitor": {}
+  },
+  "type": "angular-standalone"
+}
